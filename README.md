@@ -1,4 +1,4 @@
-Created by: Mridul Das 
+Developed By: Mridul Das
 
 Project: - Use python to convert excel, text or word files to database files and vice versa while also creating functionalities such as search, view, database modification and generate reports from database by providing a graphical interface.
 
@@ -12,55 +12,54 @@ V)	Search database
 VI)	Database to excel
 VII)	Generate Report
 VIII)	Exit
-                                                              
+                                                             
 
 To convert Excel to Database:
 User is asked to enter the location of Excel files then also to select the location of database file (if present) or else they can create a new file.
-                                                
+                                               
 Then user is asked select the location of database file (if present click no ) or else they can create a new file
 
-                                                     
+                                                    
 
  Then the user has to select import to DB and they will be provided with confirmation.     
-                                                        
+                                                       
 To convert .txt or .docx to Database:
 The user can upload text or docx file by selecting the first option and then they can select or create the database file using the second option.
-                                  
+                                 
 Then user is asked select the location of database file (if present click no ) or else they can create a new file
-			     
+			    
 At last, The user has to click on Convert to DB After which they are provided with confirmation
-                       
-To View the Database:
+                      To View the Database:
 The user is asked to browse the location for the database file and soon as they select the file, the database is viewed in a fullscreen window with all the headers.
- 
 
- 
+
+
                                                            
 To Search a Specific Postcode or using keywords from the Name:
 In the program the user is asked for the database location along with the choice whether they want to search with postcode or they wants to search using Name. The search is done the result is displayed in the other windows and if the user wants they can again search up another postcode or name. 
-                                                      
-			         
+                                                     
+			        
 There is not a need that the words entered should be in order they can be in the middle of the name and still the result can be displayed.
-                                                    
+                                                   
                    
 To modify a database:
 First the user is asked to choose a database file and then there are three operations that the user can perform. Until all the fields are filled user cannot add and user can update data using modify data and also while deleting the user is asked for confirmation while at the same time showing which row is going to be deleted by just entering the postcode in the input field.
-                                                   
+                                                  
 Add:
-  			           
+  			          
 Modify:
-			    
+			   
 
 Delete:
-		    
+		   
   
 If a Postcode doesn’t exist it would give error and same way if we try to add a postcode which already exists then too it would return  a error on the screen that ‘The postcode already exist try again with a different postcode’.                
 Convert Database file to Excel
 The main motive is to convert .db file back to .xlsx incase the user wants to migrate the files. For this you just need to select db file (Location can be selected in the explorer window) that you want to import and click Export to Excel.
 
-           		                                  
+           		                                 
 
-                                                          
+                                                         
 
        
 
@@ -69,15 +68,11 @@ The main motive is to convert .db file back to .xlsx incase the user wants to mi
                     
 Generate Report
 User can generate letter from pre-existing drafts by just running the program and then the program itself would fill by replacing the column headers.
-                                      
+                                     
 Generate Top Performers report:
-                        
+                       
 Generate Best Salesperson Report:
-
-Generate Leave Letter:
-
-Generate2 Resignation Letter:
-                                
+                               
    In-Depth Documentation of Code
 Overview
 app.py is a PyQt5 application that provides various database operations, such as importing data from Excel to SQLite, executing scripts, performing CRUD operations on the database, viewing database contents, exporting data to Excel, fetching data, and generating letters.
