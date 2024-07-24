@@ -91,7 +91,8 @@ Methods:
 •	browse_file(self): Opens a file dialog to select an Excel file.
 •	load_to_db(self): Loads data from the selected Excel file to the specified SQLite table.
 •	show_message(self, title, message): Displays a message box with the given title and message.
-2. DatabaseApp(QWidget)
+
+3. DatabaseApp(QWidget)
 This class handles CRUD operations (Create, Read, Update, Delete) on the database.
 Methods:
 •	__init__(self): Initializes the UI components for database operations.
@@ -101,23 +102,26 @@ Methods:
 •	modify_data(self, column_name, new_value, postcode): Modifies an existing record in the database.
 •	delete_data(self, postcode): Deletes a record from the database.
 •	show_message(self, title, message): Displays a message box with the given title and message.
-3. DatabaseViewer(QWidget)
+
+5. DatabaseViewer(QWidget)
 This class provides a UI to view the contents of the database.
 Methods:
 •	__init__(self): Initializes the UI components for viewing the database.
 •	load_data(self): Loads data from the database and displays it in a table.
-4. FetchDataApp(QWidget)
+6. FetchDataApp(QWidget)
 This class allows the user to fetch data from the database.
 Methods:
 •	__init__(self): Initializes the UI components for fetching data.
 •	fetch_data(self): Fetches data from the database based on the provided query and displays it in a table.
-5. DBToExcel(QWidget)
+
+8. DBToExcel(QWidget)
 This class handles exporting data from the database to an Excel file.
 Methods:
 •	__init__(self): Initializes the UI components for exporting data to Excel.
 •	export_to_excel(self): Exports the data from the specified SQLite table to an Excel file.
 •	show_message(self, title, message): Displays a message box with the given title and message.
-6. MainWindow(QMainWindow)
+
+10. MainWindow(QMainWindow)
 This class provides the main application window with various functionalities accessible through buttons.
 Methods:
 •	__init__(self): Initializes the main application window and sets up the UI components.
@@ -129,7 +133,8 @@ Methods:
 •	open_fetch_data(self): Opens the FetchDataApp window.
 •	open_letter_generation(self): Opens the letter generation application.
 •	execute_external_script(self): Executes an external script (wordortxt.py).
-7. Main Execution
+
+11. Main Execution
 The application entry point initializes the PyQt application and displays the main window.
 if __name__ == '__main__':
     app = QApplication(sys.argv)
