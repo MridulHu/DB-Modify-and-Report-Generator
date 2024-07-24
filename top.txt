@@ -1,0 +1,38 @@
+NMDC Ltd.
+2024
+ABC
+Manager
+Bacheli
+Chhattisgarh, 494553
+
+Respected Sir,
+
+I hope this letter finds you well.
+
+We are pleased to inform you that our company has recognized the outstanding performance of our top salespersons. In line with our commitment to transparency and acknowledging excellence within our team, we are happy to disclose the details of our top-performing sales representatives.
+
+Below is the information of our top 10 salespersons in descending order of sales value:
+
+| Sales_Rep_ID | Sales_Rep_Name | Value       | Postcode     |
+|--------------|----------------|-------------|--------------|
+| [ID1]        | [Name1]             | $[Value1]      | [Postcode1]         |
+| [ID2]        | [Name2]           | $[Value2]      | [Postcode2]         |
+| [ID3]        | [Name3]             | $[Value3]      | [Postcode3]         |
+| [ID4]        | [Name4]             | $[Value4]      | [Postcode4]         |
+| [ID5]        | [Name5]           | $[Value5]      | [Postcode5]         |
+| [ID6]        | [Name6]             | $[Value6]      | [Postcode6]         |
+| [ID7]        | [Name7]             | $[Value7]      | [Postcode7]         |
+| [ID8]        | [Name8]           | $[Value8]      | [Postcode8]         |
+| [ID9]        | [Name9]           | $[Value9]      | [Postcode9]         |
+| [ID10]       | [Name10]            | $[Value10]      | [Postcode10]         |
+
+These salespersons have demonstrated exceptional skill and dedication in their roles, resulting in remarkable sales achievements. We believe that recognizing and sharing such accomplishments not only motivates our team but also reflects our company’s commitment to excellence.
+
+Should you require any further information or have any questions, please feel free to contact me directly.
+
+Thank you for your attention, and we look forward to continued success and collaboration.
+
+Warm regards,
+
+Mridul
+Vocational Trainee

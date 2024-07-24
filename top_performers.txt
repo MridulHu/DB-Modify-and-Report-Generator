@@ -1,0 +1,38 @@
+NMDC Ltd.
+2024
+ABC
+Manager
+Bacheli
+Chhattisgarh, 494553
+
+Respected Sir,
+
+I hope this letter finds you well.
+
+We are pleased to inform you that our company has recognized the outstanding performance of our top salespersons. In line with our commitment to transparency and acknowledging excellence within our team, we are happy to disclose the details of our top-performing sales representatives.
+
+Below is the information of our top 10 salespersons in descending order of sales value:
+
+| Sales_Rep_ID | Sales_Rep_Name | Value       | Postcode     |
+|--------------|----------------|-------------|--------------|
+| 456        | Jane             | $99436      | 2086         |
+| 789        | Ashish           | $98780      | 2032         |
+| 456        | Jane             | $97072      | 2166         |
+| 456        | Jane             | $96922      | 2049         |
+| 789        | Ashish           | $96342      | 2031         |
+| 123        | John             | $95989      | 2153         |
+| 123        | John             | $95787      | 2109         |
+| 789        | Ashish           | $95517      | 2137         |
+| 789        | Ashish           | $95119      | 2197         |
+| 789       | Ashish            | $93306      | 2205         |
+
+These salespersons have demonstrated exceptional skill and dedication in their roles, resulting in remarkable sales achievements. We believe that recognizing and sharing such accomplishments not only motivates our team but also reflects our company’s commitment to excellence.
+
+Should you require any further information or have any questions, please feel free to contact me directly.
+
+Thank you for your attention, and we look forward to continued success and collaboration.
+
+Warm regards,
+
+Mridul
+Vocational Trainee

@@ -1,0 +1,31 @@
+[Sales_Rep_Name]
+XYZ
+Bacheli, Chhattisgarh
+1234@gmail.com
+98765432100
+
+29/06/24
+
+Manager's Name
+Manager's Position
+NMDC
+XYZ
+Bacheli, Chhattisgarh
+
+Subject: Leave Request
+
+Dear Manager,
+
+I am writing to request leave from [30/06/24] to [end_date]. Below are my details:
+
+Sales Rep Name: [Sales_Rep_Name]
+Sales Rep ID: [Your Sales Rep ID]
+Post Code: [Your Post Code]
+
+I have completed all my pending tasks and briefed my team to ensure smooth operations during my absence. I kindly request your approval for the leave.
+
+Thank you for your consideration.
+
+Sincerely,
+[Sales_Rep_Name]
+
